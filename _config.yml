@@ -15,7 +15,7 @@ url                      : "http://damien.plenard.me"
 baseurl                  :
 repository               : "Damoun/damien.plenard.me"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 atom_feed:
   path                   : feed.xml
@@ -87,6 +87,8 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+
 
 
 # Markdown Processing
