@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/dam0un
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://damien.plenard.me
+  * I am dam0un (https://keybase.io/dam0un) on keybase.
+  * I have a public key ASC_GtBMzFcNurc6sNqxkLTS0i4BfiKH_KErAizCGPE7YQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c1bf4c90b6d790114cad5de3dacfdc8312581ffb11b8a0709eaa6173500d2e380a",
+      "host": "keybase.io",
+      "kid": "0120bf1ad04ccc570dbab73ab0dab190b4d2d22e017e2287fca12b022cc218f13b610a",
+      "uid": "55d4b5a860c30b47fb5048378ff1aa00",
+      "username": "dam0un"
+    },
+    "merkle_root": {
+      "ctime": 1511342203,
+      "hash": "097a90a41c7c2cd32387b46c50448b0224d681f41fc89bd20f4d3e9bed9fe751f5c6d538a0325e0ff0123fbeaab8468a7bc57f7846aadad0e03204e88e287251",
+      "hash_meta": "7c55a409d08c48615a91d915c87a91ab82e7f012d3fb2e0954f8486e405b3b25",
+      "seqno": 1731706
+    },
+    "service": {
+      "hostname": "damien.plenard.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.36"
+  },
+  "ctime": 1511342219,
+  "expire_in": 504576000,
+  "prev": "e2d84a7472fad7d659f47290e0ba77d7704807366d96b9479ae0d6c733963e1a",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvxrQTMxXDbq3OrDasZC00tIuAX4ih/yhKwIswhjxO2EKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYzFiZjRjOTBiNmQ3OTAxMTRjYWQ1ZGUzZGFjZmRjODMxMjU4MWZmYjExYjhhMDcwOWVhYTYxNzM1MDBkMmUzODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmYxYWQwNGNjYzU3MGRiYWI3M2FiMGRhYjE5MGI0ZDJkMjJlMDE3ZTIyODdmY2ExMmIwMjJjYzIxOGYxM2I2MTBhIiwidWlkIjoiNTVkNGI1YTg2MGMzMGI0N2ZiNTA0ODM3OGZmMWFhMDAiLCJ1c2VybmFtZSI6ImRhbTB1biJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMTM0MjIwMywiaGFzaCI6IjA5N2E5MGE0MWM3YzJjZDMyMzg3YjQ2YzUwNDQ4YjAyMjRkNjgxZjQxZmM4OWJkMjBmNGQzZTliZWQ5ZmU3NTFmNWM2ZDUzOGEwMzI1ZTBmZjAxMjNmYmVhYWI4NDY4YTdiYzU3Zjc4NDZhYWRhZDBlMDMyMDRlODhlMjg3MjUxIiwiaGFzaF9tZXRhIjoiN2M1NWE0MDlkMDhjNDg2MTVhOTFkOTE1Yzg3YTkxYWI4MmU3ZjAxMmQzZmIyZTA5NTRmODQ4NmU0MDViM2IyNSIsInNlcW5vIjoxNzMxNzA2fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRhbWllbi5wbGVuYXJkLm1lIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNiJ9LCJjdGltZSI6MTUxMTM0MjIxOSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJlMmQ4NGE3NDcyZmFkN2Q2NTlmNDcyOTBlMGJhNzdkNzcwNDgwNzM2NmQ5NmI5NDc5YWUwZDZjNzMzOTYzZTFhIiwic2Vxbm8iOjUwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJr0WrmiAP9KTuCm2kjEeF5y6YlGR3AAen2ArMUZojoOELRCvctHzniXhNCdxNED+glZhT+btvFyGU6q9mPM2g+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDdU+cNFI5vjp3+eEfk2YA1+IXz4LXTF4/EVa/hb37AO6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dam0un
+
+==================================================================
